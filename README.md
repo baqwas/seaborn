@@ -5,12 +5,12 @@ The key pre-requisite for Seaborn is the installation of **matplotlib** package.
 ## Programs
 1. Hello Matlibplot
 
-Classic "Hello" example for matplotlib.
+Classic "Hello" example for matplotlib. :beginner:
 ![demo_01](./images/demo_01.png)
 
 2. Hello Seaborn
 
-A very simple introduction to Seaborn using an intrinsic dataset. You can use the '<get_dataset()>' function to retrieve the list of available datasets at [http](http://)
+A very simple introduction to Seaborn using an intrinsic dataset. You can use the `get_datasets()` function to retrieve the list of available datasets at [Seaborn](https://github.com/mwaskom/seaborn-data)
 ![demo_02](./images/demo_02.png)
 
 3.
